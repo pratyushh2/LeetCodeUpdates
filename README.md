@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
