@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -26,4 +27,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
