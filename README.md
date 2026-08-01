@@ -11,6 +11,7 @@
 | [0002-add-two-numbers](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0070-climbing-stairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/2769-find-the-maximum-achievable-number) |
@@ -43,4 +44,12 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0029-divide-two-integers) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
