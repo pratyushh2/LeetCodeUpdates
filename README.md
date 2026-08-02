@@ -14,6 +14,7 @@
 | [0043-multiply-strings](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0204-count-primes) |
 | [2769-find-the-maximum-achievable-number](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/2769-find-the-maximum-achievable-number) |
 ## Recursion
 |  |
@@ -24,6 +25,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0204-count-primes) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,4 +54,12 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0043-multiply-strings) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
