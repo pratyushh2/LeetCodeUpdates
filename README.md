@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0204-count-primes) |
 ## Binary Search
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
