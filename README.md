@@ -27,6 +27,7 @@
 | [0031-next-permutation](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0204-count-primes) |
+| [0228-summary-ranges](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0228-summary-ranges) |
 ## Binary Search
 |  |
 | ------- |
