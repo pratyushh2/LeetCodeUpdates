@@ -28,6 +28,7 @@
 | [0066-plus-one](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0228-summary-ranges) |
+| [0890-find-and-replace-pattern](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0890-find-and-replace-pattern) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0043-multiply-strings) |
+| [0890-find-and-replace-pattern](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0890-find-and-replace-pattern) |
 ## Simulation
 |  |
 | ------- |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0031-next-permutation) |
+## Hash Table
+|  |
+| ------- |
+| [0890-find-and-replace-pattern](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0890-find-and-replace-pattern) |
 <!---LeetCode Topics End-->
