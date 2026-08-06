@@ -25,6 +25,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0031-next-permutation) |
+| [0055-jump-game](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0228-summary-ranges) |
@@ -40,6 +41,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [0890-find-and-replace-pattern](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0890-find-and-replace-pattern) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
