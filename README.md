@@ -92,4 +92,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0055-jump-game) |
+## Database
+|  |
+| ------- |
+| [1341-movie-rating](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/1341-movie-rating) |
 <!---LeetCode Topics End-->
