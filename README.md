@@ -28,6 +28,7 @@
 | [0055-jump-game](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0204-count-primes) |
+| [0220-contains-duplicate-iii](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0228-summary-ranges) |
 | [0890-find-and-replace-pattern](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0890-find-and-replace-pattern) |
 ## Binary Search
@@ -96,4 +97,20 @@
 |  |
 | ------- |
 | [1341-movie-rating](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/1341-movie-rating) |
+## Sliding Window
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0220-contains-duplicate-iii) |
+## Sorting
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
