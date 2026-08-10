@@ -57,6 +57,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0043-multiply-strings) |
 | [0890-find-and-replace-pattern](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0890-find-and-replace-pattern) |
+| [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0055-jump-game) |
+| [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 ## Database
 |  |
 | ------- |
@@ -113,4 +115,12 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0220-contains-duplicate-iii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
+## Segment Tree
+|  |
+| ------- |
+| [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 <!---LeetCode Topics End-->
