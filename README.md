@@ -98,6 +98,7 @@
 ## Database
 |  |
 | ------- |
+| [1179-reformat-department-table](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/1179-reformat-department-table) |
 | [1341-movie-rating](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/1341-movie-rating) |
 ## Sliding Window
 |  |
