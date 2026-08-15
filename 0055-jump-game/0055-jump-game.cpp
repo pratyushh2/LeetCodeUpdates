@@ -2,8 +2,6 @@ class Solution {
 public:
     bool canJump(vector<int>& nums) {
 
-        // maxReach stores the farthest index
-        // we can reach so far.
         int maxReach = 0;
 
         // Traverse every index.
