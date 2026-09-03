@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0031-next-permutation) |
 | [0055-jump-game](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0055-jump-game) |
@@ -89,6 +90,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0001-two-sum) |
 | [0890-find-and-replace-pattern](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0890-find-and-replace-pattern) |
 ## Greedy
 |  |
