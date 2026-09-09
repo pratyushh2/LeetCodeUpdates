@@ -22,17 +22,13 @@ public:
             merged.push_back(nums1[i]);
             i++;
         }
-
         while(j < nums2.size()){
             merged.push_back(nums2[j]);
             j++;
         }
-
         int n = merged.size();
-
         if(n % 2 == 1)
             return merged[n/2];
-
         return (merged[n/2] + merged[n/2 - 1]) / 2.0;
     }
 };
