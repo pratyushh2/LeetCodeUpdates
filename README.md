@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0043-multiply-strings) |
+| [0076-minimum-window-substring](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0076-minimum-window-substring) |
 | [0890-find-and-replace-pattern](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0890-find-and-replace-pattern) |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 ## Simulation
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0076-minimum-window-substring) |
 | [0890-find-and-replace-pattern](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0890-find-and-replace-pattern) |
 ## Greedy
 |  |
@@ -105,6 +107,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0076-minimum-window-substring) |
 | [0220-contains-duplicate-iii](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0220-contains-duplicate-iii) |
 ## Sorting
 |  |
