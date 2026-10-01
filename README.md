@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0010-regular-expression-matching) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0070-climbing-stairs) |
 | [0132-palindrome-partitioning-ii](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0132-palindrome-partitioning-ii) |
@@ -57,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0010-regular-expression-matching) |
 | [0043-multiply-strings](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0076-minimum-window-substring) |
 | [0132-palindrome-partitioning-ii](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0132-palindrome-partitioning-ii) |
