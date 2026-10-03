@@ -63,6 +63,7 @@
 | [0043-multiply-strings](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0076-minimum-window-substring) |
 | [0132-palindrome-partitioning-ii](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0132-palindrome-partitioning-ii) |
+| [0402-remove-k-digits](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0402-remove-k-digits) |
 | [0890-find-and-replace-pattern](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0890-find-and-replace-pattern) |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 ## Simulation
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0402-remove-k-digits) |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 ## Database
 |  |
@@ -135,4 +137,12 @@
 |  |
 | ------- |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/pratyushh2/LeetCodeUpdates/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
